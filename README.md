@@ -1,4 +1,4 @@
-# Airfoil-Regression-With-Deployment
+# DryBean_Classification-With-Deployment
 This is a  project to elaborate how Machine Learning Models are deployed in production using Flask API
 
 Prerequisites
